@@ -1,4 +1,4 @@
-# Veelab lecture 2025w301520
+# VEElab lecture series
 Companion repository for the WS2025 Veelab Lecture 2025w301520 on Virus evolution and ecology. 
 
 ## Overview and Project Description
