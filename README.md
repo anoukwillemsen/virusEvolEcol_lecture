@@ -1,5 +1,5 @@
 # Virus Evolution and Ecology lecture
-Companion repository for the WS2025 Veelab Lecture 2025w301520 on Virus evolution and ecology. 
+Companion repository for the WS2026 Veelab Lecture 2026w311520 on Virus evolution and ecology. 
 
 ## Overview and Project Description
 In this part of the lecture, we focus on two bioinformatic exercises on two viruses:
@@ -8,19 +8,19 @@ In this part of the lecture, we focus on two bioinformatic exercises on two viru
 
 
 ## Resources
-Veelab link: https://veelab.univie.ac.at/
+Veelab link: [veelab.univie.ac.at/](https://veelab.univie.ac.at/)
 
-Moodle link: https://moodle.univie.ac.at/course/view.php?id=450686
+Moodle link: [moodle.univie.ac.at/course/view.php?id=470142](https://moodle.univie.ac.at/course/view.php?id=470142)
 
-LiSC homepage: https://lisc.univie.ac.at
+LiSC homepage: [lisc.univie.ac.at](https://lisc.univie.ac.at/)
 
-LiSC documentation: https://wiki.lisc.univie.ac.at Provides starting points to familiarise yourselves with the usage of the LiSC.
+LiSC documentation: [wiki.lisc.univie.ac.at](https://wiki.lisc.univie.ac.at/) Provides starting points to familiarise yourselves with the usage of the LiSC.
 
-LiSC getting started tutorial: https://wiki.lisc.univie.ac.at/access/gettingstarted/tutorial
+LiSC getting started tutorial: [wiki.lisc.univie.ac.at/access/gettingstarted/tutorial](https://wiki.lisc.univie.ac.at/access/gettingstarted/tutorial)
 
-LiSC firewall: https://lisc.univie.ac.at/firewall. To activate network access.
+LiSC firewall: [lisc.univie.ac.at/firewall](https://lisc.univie.ac.at/firewall/). To activate network access.
 
-Linux Commands Cheat Sheet: https://www.geeksforgeeks.org/linux-unix/linux-commands-cheat-sheet/
+Linux Commands Cheat Sheet: [https://www.geeksforgeeks.org/linux-unix/linux-commands-cheat-sheet/](https://www.geeksforgeeks.org/linux-unix/linux-commands-cheat-sheet/)
 
 ## 4 Blocks of Exercises
 
