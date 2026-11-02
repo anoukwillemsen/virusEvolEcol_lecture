@@ -8,11 +8,11 @@ In this part of the lecture, we focus on two bioinformatic exercises on two viru
 
 
 ## Resources
-Veelab link: [veelab.univie.ac.at/](https://veelab.univie.ac.at/)
+Veelab link: <a href="https://veelab.univie.ac.at/" target="_blank">veelab.univie.ac.at/</a>
 
 Moodle link: [moodle.univie.ac.at/course/view.php?id=470142](https://moodle.univie.ac.at/course/view.php?id=470142)
 
-LiSC homepage: [lisc.univie.ac.at](https://lisc.univie.ac.at/){:target="_blank"}
+LiSC homepage: [lisc.univie.ac.at](https://lisc.univie.ac.at/)
 
 LiSC documentation: [wiki.lisc.univie.ac.at](https://wiki.lisc.univie.ac.at/) Provides starting points to familiarise yourselves with the usage of the LiSC.
 
