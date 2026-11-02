@@ -8,19 +8,19 @@ In this part of the lecture, we focus on two bioinformatic exercises on two viru
 
 
 ## Resources
-Veelab link: <a href="https://veelab.univie.ac.at/" target="_blank">veelab.univie.ac.at</a>
+Veelab link: [veelab.univie.ac.at](https://veelab.univie.ac.at/)
 
-Moodle link: <a href="https://moodle.univie.ac.at/course/view.php?id=470142" target="_blank">moodle.univie.ac.at/course/view.php?id=470142</a>
+Moodle link: [moodle.univie.ac.at/course/view.php?id=470142](https://moodle.univie.ac.at/course/view.php?id=470142)
 
-LiSC homepage: <a href="https://lisc.univie.ac.at/" target="_blank">lisc.univie.ac.at</a>
+LiSC homepage: [lisc.univie.ac.at](https://lisc.univie.ac.at/)
 
-LiSC documentation: <a href="https://wiki.lisc.univie.ac.at/" target="_blank">wiki.lisc.univie.ac.at</a>. Provides starting points to familiarise yourselves with the usage of the LiSC.
+LiSC documentation: [wiki.lisc.univie.ac.at](https://wiki.lisc.univie.ac.at/). Provides starting points to familiarise yourselves with the usage of the LiSC.
 
-LiSC getting started tutorial: <a href="https://wiki.lisc.univie.ac.at/access/gettingstarted/tutorial" target="_blank">wiki.lisc.univie.ac.at/access/gettingstarted/tutorial</a>
+LiSC getting started tutorial: [wiki.lisc.univie.ac.at/access/gettingstarted/tutorial](https://wiki.lisc.univie.ac.at/access/gettingstarted/tutorial)
 
-LiSC firewall: <a href="https://lisc.univie.ac.at/firewall/" target="_blank">lisc.univie.ac.at/firewall</a>. To activate network access.
+LiSC firewall: [lisc.univie.ac.at/firewall](https://lisc.univie.ac.at/firewall/). To activate network access from outside the university.
 
-Linux Commands Cheat Sheet: <a href="https://www.geeksforgeeks.org/linux-unix/linux-commands-cheat-sheet/" target="_blank">www.geeksforgeeks.org/linux-unix/linux-commands-cheat-sheet</a>
+Linux Commands Cheat Sheet: [www.geeksforgeeks.org/linux-unix/linux-commands-cheat-sheet](https://www.geeksforgeeks.org/linux-unix/linux-commands-cheat-sheet/)
 
 ## 4 Blocks of Exercises
 
