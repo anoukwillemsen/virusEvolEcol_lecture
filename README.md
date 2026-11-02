@@ -10,7 +10,7 @@ In this part of the lecture, we focus on two bioinformatic exercises on two viru
 ## Resources
 Veelab link: <a href="https://veelab.univie.ac.at/" target="_blank">veelab.univie.ac.at</a>
 
-Moodle link: <a href="https://moodle.univie.ac.at/course/view.php?id=47014" target="_blank">moodle.univie.ac.at/course/view.php?id=470142</a>
+Moodle link: <a href="https://moodle.univie.ac.at/course/view.php?id=470142" target="_blank">moodle.univie.ac.at/course/view.php?id=470142</a>
 
 LiSC homepage: <a href="https://lisc.univie.ac.at/" target="_blank">lisc.univie.ac.at</a>
 
