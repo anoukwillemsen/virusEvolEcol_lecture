@@ -47,21 +47,6 @@ perl ../scripts/pal2nal.pl NA_genes_newHead_corrFrame_aln.faa ../tmp/NA_genes_ne
 **Step 3: View alignment and trim**
 Lets first view our alignment using [Aliview](https://github.com/AliView/AliView), a lightweight alignment viewer/editor.
 
-Here are the links to download it for three different operating systems.
-
-- Windows - [www.ormbunkar.se/aliview/downloads/windows](http://www.ormbunkar.se/aliview/downloads/windows/)
-
-![](./images/Aliview_download_linux.png)
-
-- OsX - [www.ormbunkar.se/aliview/downloads/mac](http://www.ormbunkar.se/aliview/downloads/mac/)
-
-![](./images/Aliview_download_mac.png)
-
-- Linux - [www.ormbunkar.se/aliview/downloads/linux](https://www.ormbunkar.se/aliview/downloads/linux/)
-
-![](./images/Aliview_download_windows.png)
-
-
 But then we need to copy over the files to our local machine:
 ```bash
 scp <user>@login01.lisc.univie.ac.at:/lisc/data/scratch/course/2025w301520/<user>/fluA/tree/HA_genes_newHead_corrFrame_aln.ffn .
