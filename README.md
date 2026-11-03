@@ -22,6 +22,32 @@ LiSC firewall: [lisc.univie.ac.at/firewall](https://lisc.univie.ac.at/firewall/)
 
 Linux Commands Cheat Sheet: [www.geeksforgeeks.org/linux-unix/linux-commands-cheat-sheet](https://www.geeksforgeeks.org/linux-unix/linux-commands-cheat-sheet/)
 
+## Software
+- [Aliview](https://github.com/AliView/AliView), a lightweight alignment viewer/editor.
+  
+  <details>
+    <summary>Here are the links to download it for three different operating systems.</summary>
+
+    - Windows - [www.ormbunkar.se/aliview/downloads/windows](http://www.ormbunkar.se/aliview/downloads/windows/)
+      
+      ![](./images/Aliview_download_linux.png)
+
+    - OsX - [www.ormbunkar.se/aliview/downloads/mac](http://www.ormbunkar.se/aliview/downloads/mac/)
+  
+      ![](./images/Aliview_download_mac.png)
+
+  - Linux - [www.ormbunkar.se/aliview/downloads/linux](https://www.ormbunkar.se/aliview/downloads/linux/)
+  
+    ![](./images/Aliview_download_windows.png)
+  
+    </details>
+
+  - [UGENE](https://ugene.net/), a sequence viewer/editor.
+
+  - [Tabby](https://tabby.sh/), an "infinitely customizable cross-platform terminal app for local shells, serial, SSH and Telnet connections".
+  - [MobaXterm](https://mobaxterm.mobatek.net/), an "enhanced terminal for Windows with X11 server, tabbed SSH client, network tools and much more".
+
+
 ## 4 Blocks of Exercises
 
 [Block 1: Project 1 introduction, Linux commands, downloading data](Block_1.md)
