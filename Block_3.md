@@ -28,7 +28,7 @@ For these steps, we move to `tree/`:
 We will align the sequences with `mafft` (https://mafft.cbrc.jp/alignment/server/index.html). Its a solid and widely used aligner, which can handle our ~800 sequences. Still, this step will take a couple of minutes!
 
 ```bash
-module load MAFFT/7.526-GCC-13.3.0-with-extensions
+module load MAFFT/7.526-GCC-14.3.0-with-extensions
 
 mafft --thread 4 --amino --localpair --maxiterate 1000 ../processed_HA_NA/HA_genes_newHead_corrFrame.faa > HA_genes_newHead_corrFrame_aln.faa;
 mafft --thread 4 --amino --localpair --maxiterate 1000 ../processed_HA_NA/NA_genes_newHead_corrFrame.faa > NA_genes_newHead_corrFrame_aln.faa;
@@ -36,7 +36,7 @@ mafft --thread 4 --amino --localpair --maxiterate 1000 ../processed_HA_NA/NA_gen
 
 **Step 2: Back-translation**
 
-We use pal2nal.pl (https://www.bork.embl.de/pal2nal/) to backtranslate. You need to copy the `pal2nal.pl` script from `/lisc/data/scratch/course/2025w301520/scripts` to your scripts directory 
+We use pal2nal.pl (https://www.bork.embl.de/pal2nal/) to backtranslate. You need to copy the `pal2nal.pl` script from `/lisc/data/scratch/course/2026w311520/scripts` to your scripts directory 
 
 ```bash
 
@@ -45,19 +45,19 @@ perl ../scripts/pal2nal.pl NA_genes_newHead_corrFrame_aln.faa ../tmp/NA_genes_ne
 ```
 
 **Step 3: View alignment and trim**
-Lets first view our alignment using [Aliview](https://github.com/AliView/AliView), a lightweight alingment viewer/editor.
+Lets first view our alignment using [Aliview](https://github.com/AliView/AliView), a lightweight alignment viewer/editor.
 
 Here are the links to download it for three different operating systems.
 
-- Windows - http://www.ormbunkar.se/aliview/downloads/linux
+- Windows - [www.ormbunkar.se/aliview/downloads/windows](http://www.ormbunkar.se/aliview/downloads/windows/)
 
 ![](./images/Aliview_download_linux.png)
 
-- OsX - http://www.ormbunkar.se/aliview/downloads/mac
+- OsX - [www.ormbunkar.se/aliview/downloads/mac](http://www.ormbunkar.se/aliview/downloads/mac/)
 
 ![](./images/Aliview_download_mac.png)
 
-- Linux - http://www.ormbunkar.se/aliview/downloads/windows
+- Linux - [www.ormbunkar.se/aliview/downloads/linux](https://www.ormbunkar.se/aliview/downloads/linux/)
 
 ![](./images/Aliview_download_windows.png)
 
@@ -78,7 +78,7 @@ As you've seen, we got some overhangs in our alignment, which creates unnecessar
 For now, lets trim. We are going to use `trimal` for that. 
 
 ```
-module load trimAl/1.5.0-GCCcore-13.3.0
+module load trimAl/1.5.1-GCCcore-13.3.0
 
 trimal -in NA_genes_newHead_corrFrame_aln.ffn -out NA_genes_newHead_corrFrame_aln_trimmed.ffn -automated1
 trimal -in HA_genes_newHead_corrFrame_aln.ffn -out HA_genes_newHead_corrFrame_aln_trimmed.ffn -automated1
